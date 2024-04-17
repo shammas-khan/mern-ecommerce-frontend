@@ -1,0 +1,10 @@
+.admin{
+    display: flex;
+}
+@media (max-width:800px) {
+    .admin{
+        padding-top:75px;
+        flex-direction: column;
+
+    }
+}
